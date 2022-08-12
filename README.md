@@ -1,3 +1,3 @@
-# Repositório com projetos da Alura
+# Repositório de projetos da Alura
 
 > Status: Em desenvolvimento
