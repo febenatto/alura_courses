@@ -1,4 +1,4 @@
-### Formação Front-End - [Certificado](https://cursos.alura.com.br/degree/certificate/0a4f8490-44b9-4df6-9475-ed3867bb5a34)
+# Formação Front-End - [Certificado](https://cursos.alura.com.br/degree/certificate/0a4f8490-44b9-4df6-9475-ed3867bb5a34)
 O foco desta formação é a na criação de páginas web responsivas, com base nos frameworks mais famosos do mercado. Aqui temos projetos com HTML5/CSS3/JavaScript, que são as linguagens base no desenvolvimento web.
 
 ### HTML5 & CSS3
